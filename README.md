@@ -1,3 +1,5 @@
+![logo](https://github.com/atir5701/atir5701/blob/main/banner.jfif)
+
 <h1 align="center">Hello, I'm Atir Shakhrelia</h1>
 <h3 align="center">Enthusiast in Machine Learning, Deep Learning, and Data Science | Master's Student at Northeastern University</h3>
 
