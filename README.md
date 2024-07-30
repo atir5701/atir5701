@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MLOps**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, CS fundamentals**
+- 💬 Ask me about **Machine Learning, Deep Learning, Data Mining, CS fundamentals**
 
 - 📫 How to reach me **atirsakhrelia@gmail.com**
 
