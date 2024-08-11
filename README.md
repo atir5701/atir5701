@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **atirsakhrelia@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hrv_Jqr_DDZhJiYlkOGa4d_CqSzNLbEL/view?usp=sharing)
+- 📄 Know about my experiences [Atir Shakhrelia Resume](https://drive.google.com/file/d/1hrv_Jqr_DDZhJiYlkOGa4d_CqSzNLbEL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
