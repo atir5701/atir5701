@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Mining, CS fundamentals**
 
-- 📫 How to reach me **atirsakhrelia@gmail.com**
+- 📫 How to reach me **shakhreliaatir@gmail.com**
 
 - 📄 Know about my experiences [Atir Shakhrelia Resume](https://drive.google.com/file/d/1hrv_Jqr_DDZhJiYlkOGa4d_CqSzNLbEL/view?usp=sharing)
 
